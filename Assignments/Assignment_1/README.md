@@ -11,8 +11,11 @@ RetailDB
 Tables Created:
 
 Customers
+
 Products
+
 Sales
+
 Suppliers
 
 Concepts Used:
